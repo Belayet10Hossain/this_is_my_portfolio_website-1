@@ -1,0 +1,308 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700');
+
+/* Global CSS */
+*{
+	margin: 0;
+}
+body{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+	color: #333;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	
+}
+.flex-wrapper{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	
+}
+.fa{
+	color: white;
+}
+.flex-item-1 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-2 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-3 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-4 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-5 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-6 h5{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+.flex-item-1 ul li{
+	list-style-type: none;
+}
+.flex-item-2 ul li{
+	list-style-type: none;
+}
+.flex-item-3 ul li{
+	list-style-type: none;
+}
+.flex-item-4 ul li{
+	list-style-type: none;
+}
+.flex-item-5 ul li{
+	list-style-type: none;
+}
+.flex-item-6 ul li{
+	list-style-type: none;
+}
+.flex-item-1{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: #18a05e;
+}
+.flex-item-2{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: #4285f4;
+}
+.flex-item-3{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: #b84948;
+}
+.flex-item-4{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: orange;
+}
+.flex-item-5{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: #7047e3;
+}
+.flex-item-6{
+	width: 100px;
+	height: 60px;
+	padding: 40px;
+	margin: 0 auto;
+	margin: 5px 2px;
+	background-color: #081d32;
+}
+.container-1{
+	width: 1140px;
+	margin: 0 auto;
+}
+.nav{
+	display: flex;
+}
+.img-container{
+	width: 180px;
+    height: 184px;
+    margin: 10px;
+    padding: 10px;
+   
+}
+.container-two{
+	padding: 10px;
+	margin: 10px;
+
+}
+.container-two h1{
+	color: #4e445b;
+}
+.container-two h4{
+	color: #03c7cb;
+}
+.link ul li{
+	list-style-type: none;
+    display: inline;
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+    margin: 0px 5px;
+    background: #eee;
+    line-height: 71px;
+    color: black;
+    border-radius: 10%
+	
+}
+.main-two h1{
+	text-align: center;
+	padding: 40px;
+	color: white;    
+	
+}
+.main-content{
+	width: 1000px;
+	height: 400px;
+	background-color: #fff;
+	margin: 0 auto;
+	display: flex;
+	border: 1px solid black;
+	
+	padding: 20px;
+	
+
+}
+.main-content h2{
+	text-align: center;
+	color: white;
+	background-color: orange;
+	padding: 10px;
+	
+}
+.main-content p{
+	font-size: 20px;
+}
+.link-fa{
+	background-color: #4063aa;
+}
+.link-ins{
+	background-color: #e43475;
+}
+.link-lin{
+	background-color: #0077b5;
+}
+.link-twi{
+	background-color: #1da1f2;
+}
+.link-goo{
+	background-color: #ea4335;
+}
+.link-rock{
+	background-color: #aab311;
+}
+.link-spin{
+	background-color: #274d5d;
+}
+.link-light{
+	background-color: #2a2c5d;
+}
+.link-snow{
+	background-color: #4e3563;
+}
+.nav-1{
+	width: 1140px;
+	
+	display: flex;
+	margin: 10px 10px;
+	margin: 0 auto;
+}
+.head{
+	
+}
+.head-1{
+	padding: 20px;
+	margin: 22px 0px;
+}
+.head h4{
+	margin: 0px 20px;
+	color: #092f4d;
+}
+.wrap h4{
+	color: #092f4d;	
+}
+.single-wrap{
+	width: 800px;
+	background-color: #454545;
+
+}
+.skills-area{
+	text-align: center;
+	padding-right: 30px;
+	line-height: 15px;
+	color: white;
+}
+.skill-1{
+	width: 90%;
+	background-color: #18a05e;
+}
+.skill-2{
+	width: 80%;
+	background-color: #18a05e;
+}
+.skill-3{
+	width: 65%;
+	background-color: #18a05e;
+}
+.skill-4{
+	width: 60%;
+	background-color: #18a05e;
+}
+.skill-5{
+	width: 50%;
+	background-color: #18a05e;
+}
+.main-nav{
+	width: 1140px;
+	margin: 0 auto;
+	display: flex;
+}
+.div{
+
+	
+}
+.div ul li{
+	list-style-type: none;
+	margin: 0px 55px; 
+}
+.div h4{
+	margin: 0px 55px;
+	color: #a5485e;
+	padding: 10px;
+}
+footer{
+	width: 1140px;
+	margin: 0 auto;
+	background-color: #df3223;
+	text-align: center;
+	color:white;
+	padding: 12px;
+}
+
+
+@media (min-width: 320px) and (max-width: 500px){
+
+	body{
+		width: 100%;
+	}
+	.flex-wrapper{
+		flex-direction: column;
+	}
+
+}
+
+
+
